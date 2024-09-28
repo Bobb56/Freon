@@ -1,4 +1,4 @@
-# Langage Neon - Freon
+# Langage Freon
 
 ## Freon
 
